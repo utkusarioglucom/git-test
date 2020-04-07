@@ -7,3 +7,4 @@
 5 right		master		3	simultaneous commit with right right-1
 5 right		right-1		3	simultaneous add with right master
 6 right		right-1		4	1 2 3 4 5
+6 right		right-1		4	1 2 3 a b
