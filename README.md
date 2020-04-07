@@ -4,3 +4,4 @@
 3 right		right-1		2
 # REBASE
 4 right		master		2
+5 right		master		3	simultaneous commit with right right-1
